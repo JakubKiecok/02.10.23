@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.gora{
+    height: 48px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(251, 251, 253, .8);
+}
+.góra{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 24%;
+    margin-right: 24%;
+}
+.jabuszko{
+    height: 48px;
+}
+.box{
+    font-size: 14px;
+    margin-top: 14px;
+    font-weight: 50;
+}
+.gift{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: -20px;
+}
+.a-góra{
+    text-decoration: none;
+    color: rgb(41, 151, 255);
+}
+.main1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+h1{
+    padding-top: 50px;
+    font-size: 50px;
+    margin-bottom: -20px;
+}
+h2{
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-weight: 200;
+}
+.a-main{
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(41, 151, 255);
+    font-weight: 500;
+}
+.iPhone{
+    margin: 0;
+    padding: 0;
+}
+.main2{
+    background-color: rgb(244,244,244);
+    color: black;
+    text-align: center;
+    margin: 0;
+    margin-top: -20px;
+}
+.jabuszko2{
+    height: 50px;
+    margin-bottom: -5px;
+}
+.main3{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    margin-top: -20px;
+}
+h3{
+    color: rgb(220, 0, 0);
+    letter-spacing: 5px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+footer{
+    text-align: start;
+    margin-top: 30px;
+    width: 52%;
+    padding-left: 24%;
+    padding-right: 24%;
+    font-size: 14px;
+    background-color: #f5f5f7;
+    color: #6e6e73;
+}
+.a-footer{
+    text-decoration: underline;
+    color: #424245;
+}
+.footer1{
+    border-bottom: #d2d2d7 1px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+.footer2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+footer b{
+    color: #1d1d1f;
+}
+li{
+    margin-bottom: 10px;
+}
+.margin{
+    margin-bottom: 20px;
+}
+ul{
+    margin-left: -40px;
+    list-style-type: none;
+}
+footer .footer3 a{
+        text-decoration: underline;
+        color: rgb(41, 151, 255);
+} 
+.footer3{
+    margin-top: 30px;
+    border-bottom: #d2d2d7 1px solid;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.footer4{
+    padding-bottom: 50px;
+}
+.wreszcie_koniec{
+    margin-left: 20px;
+    color: #424245;
+}
+.US{
+    float: right;
+}
